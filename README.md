@@ -1,6 +1,9 @@
 # Audio Transcribe Service
 
-This repo offers an audio file transcribe service. However, the format of audio uri is only limited to Google Storage link, which begins with `gs://`.
+This repo shows a demo of an audio transcribe service. However, the format of audio uri is only limited to Google Storage link, which begins with `gs://`.
+
+## Set up environment
+`pip install -r modules.txt`
 
 ## Set up Google Cloud API
 
